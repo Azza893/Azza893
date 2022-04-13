@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azza Dawoud</h1>
-<h3 align="center">A full Stack developer |.NET</h3>
+<h3 align="center">Full Stack Developer |.NET</h3>
 
-- 🔭 I’m currently working on [Book Store](https://github.com/Azza893/BookStore)
+- 🔭 I’m currently working on project [Book Store](https://github.com/Azza893/BookStore)
 
-- 🌱 I’m currently learning **.NET developer**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Azza893](https://github.com/Azza893)
 
